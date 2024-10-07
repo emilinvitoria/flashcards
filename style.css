@@ -1,8 +1,13 @@
+:root {
+    --text-color: #DBE4EF;
+    --card-front-color: #144480;
+    --card-back-color: #00F4BF;
+}
 body{
-    background-color: rgb(10, 248, 177); 
+    background:url('img/bg-desktop.webp'); 
     font-family: bai jamjuree;
 }
-
+footer
 #container{
     display: flex;
 }
@@ -22,7 +27,7 @@ body{
 }
 
 .cartao__conteudo h3 {
-    background-color: tomato; 
+    color: var(--text-color);
     text-align: left;
     padding: 0.5rem;
     position: absolute;
