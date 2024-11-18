@@ -1,0 +1,21 @@
+ criaCartao {
+ 'Progamaçaõ'
+ ' O que é JavaSCript?'
+ ' O java script é uma linguagem de progamação'
+}
+
+
+
+ criaCartao {
+'geografia'
+'qual é a capital da frança?'
+'A capital da frança é paris'
+ }
+
+
+
+ criaCartao{ 
+' progamação'
+'o que é uma função?'
+'uma função é um bloco de codigo que executa alguma tarefa'
+}
