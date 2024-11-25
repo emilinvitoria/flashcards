@@ -19,3 +19,13 @@
 'o que é uma função?'
 'uma função é um bloco de codigo que executa alguma tarefa'
 }
+
+
+
+criaCartao { 
+ 'geografia'
+ 'qual o monte mais alto'
+ 'monte everest'
+}
+
+
